@@ -106,7 +106,7 @@ EXAMPLE_OUTPUT:
 # TODO: 4. Agents: Dynamically call chains based on user input
 # NEED: `pip install google-search-results` and a SerpAPI to use
 """
-os.environ["SERPAPI_API_KEY"] = "2d4c2a2d089f0ae92f143db03f5708443957ceed4532a70c7259ba607b7963be"
+os.environ["SERPAPI_API_KEY"] = "YOUR_SERPAPI_API_KEY"
 
 # Initialize an agent with:
 #     1. The tools
